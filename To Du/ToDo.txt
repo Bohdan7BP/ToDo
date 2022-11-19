@@ -1,0 +1,4 @@
+3
+9	9	1	1	2022	3	STO	4	3	CAR	7	15	
+8	5	21	10	2022	5	IStep	4	12	Ekzamination	5	0	
+20	0	8	1	2022	3	Boy	4	35	Creative space at Bohdan apartament	17	0	
