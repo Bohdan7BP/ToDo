@@ -206,6 +206,8 @@ void readFromFile(Task* &obj, int& size, const char* fileName)
 	taskFromFile.close();
 	obj = returnToWork;
 	size = N;
+	int sizeNew = 123;
 }
 
 //add new comment
+// new comment 
